@@ -1,2 +1,2 @@
-# ShowVideo
-ShowVideo is a YouTube Alternative
+# KPlay
+KPlay is a YouTube Alternative
