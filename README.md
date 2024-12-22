@@ -1,2 +1,2 @@
 # Vis
-KPlay is a YouTube Alternative
+Vis is a YouTube Alternative
