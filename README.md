@@ -1,2 +1,2 @@
 # Vis
-Vis is a YouTube Alternative
+Vis is a YouTube Alternative Front-End
